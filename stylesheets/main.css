@@ -1,0 +1,45 @@
+* {
+ box-sizing: border-box;
+}
+
+.header {
+  background-color:FireBrick;
+  color: white;
+  padding: 30px;
+  text-align: left;
+}
+
+.directory {
+  background-color:Black;
+  color: white;
+  padding: 30px;
+  text-align: right;
+}
+
+.section {
+  background-color: white;
+  color: black;
+  text-align: left;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 40%;
+}
+
+
+aside {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 30px
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+footer {
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
